@@ -1,3 +1,5 @@
+[YouTube Link]()
+
 # Neural Network Implementations Across Different Frameworks
 
 This repository contains a series of neural network implementations demonstrating the construction and training of a 3-layer deep neural network for non-linear regression across different programming frameworks and methodologies. These implementations serve as an educational resource to understand the basics and intricacies of neural network development from scratch, as well as utilizing high-level APIs for streamlined development. Each implementation focuses on a different approach or framework, including NumPy, PyTorch, TensorFlow, and JAX.
